@@ -1,10 +1,10 @@
 # pyswitch
 <h1>五行代码在python中实现switch ！！！</h1>
-这个函数接收两个参数:<br/>
-<code>
+这个函数接收两个参数:
+
+```
 switch(variable,case)
-</code>
-<br /> 
+```
 variable指的是需要判断的值；case是一个字典<br/>
 具体用法如下:
 
